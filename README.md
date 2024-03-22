@@ -19,10 +19,10 @@ A toy learning management system to try out functionality as plugins.
 
 ### Example
 
-Using [gray_adeyi_math](https://github.com/gray-adyi/gray_adeyi_math).
+Using [gray_adeyi_math](https://github.com/gray-adeyi/gray_adeyi_math).
 
-- clone [gray_adeyi_math](https://github.com/gray-adyi/gray_adeyi_math)
-- copy the `gray_adeyi_math` package within the project root of [gray_adeyi_math](https://github.com/gray-adyi/gray_adeyi_math) into
+- clone [gray_adeyi_math](https://github.com/gray-adeyi/gray_adeyi_math)
+- copy the `gray_adeyi_math` package within the project root of [gray_adeyi_math](https://github.com/gray-adeyi/gray_adeyi_math) into
     `xceptional_lms/core/plugins`.
 - replace `ADVANCED_MATH_PACKAGE=""` with `ADVANCED_MATH_PACKAGE="gray_adeyi_math"` in `xceptional_lms/core/config.py`
 - run the app with `python xceptional_lms.py`
